@@ -94,5 +94,5 @@ https://www.google.com.br/intl/pt-BR/about/products?tab=wh
 ```
 
 # License
-MIT - Basically, you can do whatever you want with it and I'm now responsable for anything you do with it ;)
-See the details in the LICENSE file
+MIT - Basically, you can do whatever you want with it, and I'm not responsible for anything you do with it ;)
+See the details in the LICENSE file.
